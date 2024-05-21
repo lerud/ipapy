@@ -20,7 +20,7 @@ setup(
     name="ipapy",
     packages=["ipapy", "ipapy.data"],
     package_data={"ipapy.data": ["*.dat"]},
-    version="0.0.9.0Mukity",
+    version="0.0.9.0mukity",
     description="ipapy is a Python module to work with IPA strings",
     author="Alberto Pettarin",
     author_email="alberto@albertopettarin.it",
