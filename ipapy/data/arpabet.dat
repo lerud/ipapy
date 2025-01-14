@@ -45,7 +45,13 @@
 025B,EH
 # mapping "e"=>"EH" as well
 0065,EH
+
+# This one probably should not be here, not really English
 0153,AE
+
+# But this one was missing, so adding it
+00E6,AE
+
 # mapping "a"=>"AE" as well
 0061,AE
 028C,AH
